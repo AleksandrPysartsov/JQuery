@@ -28,7 +28,7 @@ const swiper = new Swiper('.swiper-container', {
     // Optional parameters
     direction: 'horizontal',
     spaceBetween: 40,
-    slidesPerView: 4,
+    slidesPerView: 3,
     loop: true,
     stopOnLastSlide: false,
     autoplay: {
